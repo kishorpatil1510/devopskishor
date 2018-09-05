@@ -2,7 +2,7 @@
 <body>
 	<h1>Hello World!</h1>
 	
-        <h2> This is a Test page for demonstrating CI and CD with Continuous Integration< and send to tomcat/h2>
+        <h2> This is a Test page for demonstrating CI and CD with Continuous Deployment< and send to tomcat/h2>
         <h3> !!!!!! VERY  GOOD Morning !!!!!!!!/h3>
 <form>
 	First name:<br>
