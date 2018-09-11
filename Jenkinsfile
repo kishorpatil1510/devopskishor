@@ -30,7 +30,7 @@ userRemoteConfigs: [[url:'https://github.com/kishorpatil1510/devopskishor.git']]
         cc: '', 
         from: '', 
         replyTo: '', 
-        subject: 'Jenkins', 
+        subject: 'This is Push Test to Remote Repository', 
         to: 'mail.kishor.1510@gmail.com'
 }
 
